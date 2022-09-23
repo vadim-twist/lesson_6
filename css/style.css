@@ -49,6 +49,10 @@ body{
 	color: #1E212C;
 }
 
+.main{
+	margin-bottom: 24px;
+}
+
 .main-content-img{
 	max-width: 100%;
 	margin-bottom: 60px;
@@ -89,7 +93,6 @@ p.main-text-remove{
 
 .main-list{
 	max-width: 600px;
-	margin-bottom: 24px;
 }
 
 .main-list-item{
